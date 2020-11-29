@@ -1,7 +1,7 @@
 # Loadingscreen-Fivem
 
 ## Join our Discord
-https://discord.gg/4A6Qdp9
+https://discord.gg/4A6Qdp9 | Terra Studios
 
 ## What is it?
 This is a Loadingscreen for your FiveM server and is an edited version of https://github.com/Redven-Biker/XGame-Loading-Screen-FiveM 
