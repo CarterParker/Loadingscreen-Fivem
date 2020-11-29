@@ -7,10 +7,11 @@ https://discord.gg/4A6Qdp9
 This is a Loadingscreen for your FiveM server and is an edited version of https://github.com/Redven-Biker/XGame-Loading-Screen-FiveM 
 
 ## Added Features
-Rules Section
-Revamp of Loading Main screen (added discord link)
-Press ``Space`` to Mute and Unmute
-
+```
+1. Rules Section
+2. Revamp of Loading Main screen (added discord link)
+3. Press ``Space`` to Mute and Unmute
+```
 ## Commands
 ``/announce <message>``
 
