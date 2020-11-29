@@ -10,7 +10,7 @@ This is a Loadingscreen for your FiveM server and is an edited version of https:
 ```
 1. Rules Section
 2. Revamp of Loading Main screen (added discord link)
-3. Press ``Space`` to Mute and Unmute
+3. Press Space to Mute and Unmute
 ```
 ## How to install?
 
